@@ -1,0 +1,2 @@
+<link href='رابط ملف CSS' rel='stylesheet' type='text/css'/>
+<script src='رابط ملف JS' type='text/javascript'/>
